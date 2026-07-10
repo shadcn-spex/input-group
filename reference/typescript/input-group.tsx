@@ -1,5 +1,6 @@
 // Source: https://ui.shadcn.com/r/styles/new-york-v4/input-group.json
 // shadcn/ui — MIT License, Copyright (c) 2023 shadcn
+// Upstream dependencies (shadcn-ui/ui apps/v4/registry.json, 2026-07-10): registry [button, input, textarea]; npm []
 "use client"
 
 import * as React from "react"
