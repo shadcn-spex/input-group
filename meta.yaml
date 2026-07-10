@@ -1,0 +1,11 @@
+name: input-group
+org: shadcn-spex
+version: 0.1.0
+description: "Behavioral contract for shadcn/ui input-group: a role=group field container whose addons focus the control on click and whose border reflects control focus and aria-invalid state."
+license: MIT
+repository: https://github.com/shadcn-spex/input-group
+languages: [en]
+reference:
+  typescript:
+    agent: Claude Code
+    model: claude-fable-5
